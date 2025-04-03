@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletAPI", "WalletAPI.csproj", "{856FD4EC-24E8-4597-B12B-501C70155EBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPITests", "..\WebAPITests\WebAPITests.csproj", "{0D41848E-F8C5-4AEB-9A4D-349E328596DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{856FD4EC-24E8-4597-B12B-501C70155EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856FD4EC-24E8-4597-B12B-501C70155EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856FD4EC-24E8-4597-B12B-501C70155EBE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{856FD4EC-24E8-4597-B12B-501C70155EBE}.Debug|x64.Build.0 = Debug|Any CPU
+		{856FD4EC-24E8-4597-B12B-501C70155EBE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{856FD4EC-24E8-4597-B12B-501C70155EBE}.Debug|x86.Build.0 = Debug|Any CPU
+		{856FD4EC-24E8-4597-B12B-501C70155EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856FD4EC-24E8-4597-B12B-501C70155EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{856FD4EC-24E8-4597-B12B-501C70155EBE}.Release|x64.ActiveCfg = Release|Any CPU
+		{856FD4EC-24E8-4597-B12B-501C70155EBE}.Release|x64.Build.0 = Release|Any CPU
+		{856FD4EC-24E8-4597-B12B-501C70155EBE}.Release|x86.ActiveCfg = Release|Any CPU
+		{856FD4EC-24E8-4597-B12B-501C70155EBE}.Release|x86.Build.0 = Release|Any CPU
+		{0D41848E-F8C5-4AEB-9A4D-349E328596DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D41848E-F8C5-4AEB-9A4D-349E328596DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D41848E-F8C5-4AEB-9A4D-349E328596DE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0D41848E-F8C5-4AEB-9A4D-349E328596DE}.Debug|x64.Build.0 = Debug|Any CPU
+		{0D41848E-F8C5-4AEB-9A4D-349E328596DE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0D41848E-F8C5-4AEB-9A4D-349E328596DE}.Debug|x86.Build.0 = Debug|Any CPU
+		{0D41848E-F8C5-4AEB-9A4D-349E328596DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D41848E-F8C5-4AEB-9A4D-349E328596DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D41848E-F8C5-4AEB-9A4D-349E328596DE}.Release|x64.ActiveCfg = Release|Any CPU
+		{0D41848E-F8C5-4AEB-9A4D-349E328596DE}.Release|x64.Build.0 = Release|Any CPU
+		{0D41848E-F8C5-4AEB-9A4D-349E328596DE}.Release|x86.ActiveCfg = Release|Any CPU
+		{0D41848E-F8C5-4AEB-9A4D-349E328596DE}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62616D15-D2FA-447F-BF71-8C831AF97D8D}
+	EndGlobalSection
+EndGlobal
