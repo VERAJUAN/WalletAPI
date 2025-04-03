@@ -1,3 +1,5 @@
+* Ejecutar Script para la generación de la BD, se encuentra en la carpeta Data/DELTAS
+
 Que se puede mejorar/pulir:
 - Centralizar el manejo de errores en un Middleware. Serviría para capturar y formatear errores en un solo lugar, y asi dejar de utilizar try-catch en los servicios y repositorios.
 - Implementar Logs para monitoreo de errores de sistema y negocio. Tambien puede servir para monitoreo de procesos de negocio.
